@@ -28,7 +28,7 @@ import de.keyboardsurfer.android.widget.crouton.Crouton;
 import de.keyboardsurfer.android.widget.crouton.Style;
 import just.curious.weather.helpers.DayFormatter;
 import just.curious.weather.helpers.TemperatureFormatter;
-import just.curious.weather.modules.WeatherForecastListAdapter;
+import just.curious.weather.WeatherForecastListAdapter;
 import just.curious.weather.pojo.CurrentWeather;
 import just.curious.weather.pojo.WeatherForecast;
 import just.curious.weather.service.LocationService;

@@ -11,6 +11,7 @@ import javax.inject.Singleton;
 import dagger.Module;
 import dagger.Provides;
 import just.curious.weather.WeatherActivity;
+import just.curious.weather.WeatherForecastListAdapter;
 import just.curious.weather.WeatherFragment;
 import just.curious.weather.helpers.DayFormatter;
 import just.curious.weather.helpers.TemperatureFormatter;

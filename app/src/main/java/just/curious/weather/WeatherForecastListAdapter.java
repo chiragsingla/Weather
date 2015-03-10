@@ -1,4 +1,4 @@
-package just.curious.weather.modules;
+package just.curious.weather;
 
 import android.content.Context;
 import android.view.LayoutInflater;
